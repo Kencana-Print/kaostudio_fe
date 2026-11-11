@@ -1,9 +1,13 @@
 name: Build and Deploy to VPS
 
+# Dinonaktifkan sementara dari auto-trigger
+# on:
+#   push:
+#     tags:
+#       - 'v*.*.*'
+
 on:
-  push:
-    tags:
-      - 'v*.*.*'
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:

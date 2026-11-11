@@ -499,7 +499,7 @@ const handleUpdateRotation = (angle: number) => {
                         <h1
                             class="text-lg font-black tracking-tight text-slate-900 dark:text-white leading-none"
                         >
-                            KaoStudio
+                            KAOSANstudio
                         </h1>
                         <span
                             v-if="store.isUsingFallbackData"
@@ -820,7 +820,7 @@ const handleUpdateRotation = (angle: number) => {
                             <h2
                                 class="text-xl font-extrabold tracking-tight text-sky-950 dark:text-white"
                             >
-                                Panduan Penggunaan KaoStudio
+                                Panduan Penggunaan KAOSANstudio
                             </h2>
                             <p
                                 class="text-xs text-slate-500 dark:text-slate-400 font-semibold"
@@ -991,7 +991,7 @@ const handleUpdateRotation = (angle: number) => {
                     >
                         <span
                             class="text-[10px] text-slate-450 font-bold uppercase tracking-wider"
-                            >KaoStudio Guide v{{ appVersion }}</span
+                            >KAOSANstudio Guide v{{ appVersion }}</span
                         >
                         <button
                             @click="showGuide = false"
@@ -1124,7 +1124,7 @@ const handleUpdateRotation = (angle: number) => {
         >
             <p class="font-medium tracking-wide">
                 &copy; 2026
-                <span class="text-white font-bold">KaoStudio</span> v{{
+                <span class="text-white font-bold">KAOSANstudio</span> v{{
                     appVersion
                 }}
             </p>

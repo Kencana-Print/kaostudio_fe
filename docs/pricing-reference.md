@@ -1,12 +1,12 @@
-# Referensi Perhitungan Harga — KaoStudio
+# Referensi Perhitungan Harga — KAOSANstudio
 
 > **Sumber**: Diekstrak dari codebase `retail_backend` & `retail_frontend` (Manksi Web)
 > **Tanggal**: 15 Juli 2026
-> **Tujuan**: Dokumen referensi untuk pengembangan fitur **Estimasi Harga** di KaoStudio
+> **Tujuan**: Dokumen referensi untuk pengembangan fitur **Estimasi Harga** di KAOSANstudio
 
 ---
 
-## Keputusan Desain untuk KaoStudio
+## Keputusan Desain untuk KAOSANstudio
 
 > **Pendekatan yang dipilih:** Pemisahan harga barang dan jasa (sesuai pola SO/Penawaran di retail)
 
@@ -316,4 +316,4 @@ Berikut adalah file-file sumber yang mengandung logika perhitungan harga tersebu
 
 ---
 
-> **Status:** Menunggu keputusan pendekatan mana yang akan diterapkan di KaoStudio.
+> **Status:** Menunggu keputusan pendekatan mana yang akan diterapkan di KAOSANstudio.

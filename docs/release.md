@@ -1,6 +1,6 @@
 # Panduan Rilis Versi (Release Guide)
 
-Dokumen ini menjelaskan langkah-langkah untuk melakukan rilis versi baru pada proyek **Kaostudio FE** menggunakan sistem Git Tags yang terintegrasi dengan GitHub Actions.
+Dokumen ini menjelaskan langkah-langkah untuk melakukan rilis versi baru pada proyek **KAOSANstudio FE** menggunakan sistem Git Tags yang terintegrasi dengan GitHub Actions.
 
 ---
 

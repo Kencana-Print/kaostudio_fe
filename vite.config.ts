@@ -17,8 +17,8 @@ export default defineConfig({
                 "apple-touch-icon.png",
             ],
             manifest: {
-                name: "KaoStudio - Sablon & Clothing Mockup Editor",
-                short_name: "KaoStudio",
+                name: "KAOSANstudio - Sablon & Clothing Mockup Editor",
+                short_name: "KAOSANstudio",
                 description:
                     "Aplikasi Editor Desain Sablon & Mockup Kaos Interaktif",
                 theme_color: "#18181b",

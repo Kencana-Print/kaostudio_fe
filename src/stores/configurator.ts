@@ -153,7 +153,7 @@ export const useConfiguratorStore = defineStore('configurator', () => {
     });
 
     if (unmatchedNames.length > 0) {
-      console.warn(`[KaoStudio] Warna belum terdaftar di companyColors (${fabric}/${model}):`, unmatchedNames);
+      console.warn(`[KAOSANstudio] Warna belum terdaftar di companyColors (${fabric}/${model}):`, unmatchedNames);
     }
 
     return mapped.length > 0 ? mapped : presetColors;
